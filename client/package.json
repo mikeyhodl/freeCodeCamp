@@ -30,7 +30,7 @@
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "final-form": "^4.19.1",
-    "gatsby": "^2.21.21",
+    "gatsby": "^2.32.13",
     "gatsby-cli": "^2.12.15",
     "gatsby-link": "^2.4.2",
     "gatsby-plugin-advanced-sitemap": "^1.5.4",
@@ -111,7 +111,7 @@
     "react-test-renderer": "^16.10.2",
     "redux-saga-test-plan": "^4.0.0-rc.3",
     "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "repository": {
     "type": "git",
